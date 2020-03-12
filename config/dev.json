@@ -1,0 +1,15 @@
+{
+  "port": 3000,
+  "db": {
+    "profile": {
+      "type": "mysql",
+      "host": "mysqlusers",
+      "port": 3306,
+      "database": "profile",
+      "username": "root",
+      "password": "MyRoot12345!",
+      "synchronize": true,
+      "logging": false
+    }
+  }
+}
